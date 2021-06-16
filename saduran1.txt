@@ -3,4 +3,11 @@
 3.Kelompok : TI6J 
 4
 5. hasil penyaduran 
-6. 1) tugas untuk menyadur tiap pertemuan dan di taruh di github 
+6. 1) Per 1 = tugas untuk menyadur tiap pertemuan dan di taruh di github 
+7. 2) Per 2 =  tentang analisa masalah,proses bisnis sistem berjalan,dan activity diagram sistem berjalan
+8. 3) per 3 =  tentang analisa solusi, proses bisnid sistem usulan,dan activity diagram sistem usulan 
+9. 4) per 4 = pebahasan tentang Usecase diagram dan deskripsi usecase 
+10 5) per 5 = pembahasan tentang rancangan layar 
+11 6) per 6 = pembahasan tentang Class diagram 
+12 7) per 7 = pembahasan tentang live session Squence diagram 
+13 8) per 8 = UTS
